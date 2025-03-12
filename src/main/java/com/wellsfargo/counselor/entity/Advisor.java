@@ -41,7 +41,7 @@ public class Advisor {
     }
 
     public Long getAdvisorId() {
-        return advisorId;
+        return (Long) advisorId;
     }
 
     public String getFirstName() {

@@ -9,6 +9,7 @@ public class Entrypoint {
 
     public static void main(String[] args) {
         SpringApplication.run(Entrypoint.class, args);
+       // System.out.println("Hello World!");
     }
 
 }
